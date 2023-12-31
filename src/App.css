@@ -37,8 +37,12 @@
   }
 }
 #container {
+  
+  
+  font-size: 20px;
   height: 100vh;
   background-color: bisque;
+  border: 2px solid black;
 }
 form > input {
   width: 20%;
@@ -53,9 +57,9 @@ input:hover {
 button {
   margin-top: 10px;
   color: white;
-  font-size: 1.3em;
+font-size: 1em;
   background-color: blue;
-  width: 100px;
+  width: 150px;
  
 }
 button:hover {
